@@ -1,8 +1,18 @@
 {
-   "GE":[
-      "116.203.68.188:1080:vpnsatoshi:W9r6uJv9YL6n"
+   "DE":[
+      {
+         "host":"116.203.68.188",
+         "port":1080,
+         "username":"vpnsatoshi",
+         "password":"W9r6uJv9YL6n"
+      }
    ],
    "RU":[
-      "185.220.34.183:1080:vpnsatoshi:W9r6uJv9YL6n"
+      {
+         "host":"185.220.34.183",
+         "port":1080,
+         "username":"vpnsatoshi",
+         "password":"W9r6uJv9YL6n"
+      }
    ]
 }
